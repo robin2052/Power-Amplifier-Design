@@ -9,4 +9,6 @@ After checking those parameters , we have to check if the system is stable or no
 
 .[Matching](./matching.md)
 
+.[Conjugate Matching](./conjugate.md)
+
 
