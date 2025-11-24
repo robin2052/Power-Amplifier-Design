@@ -5,7 +5,11 @@
 
 <img width="1901" height="828" alt="image" src="https://github.com/user-attachments/assets/712ce740-271d-4679-9e8f-e6aa0defa7b3" />
 
-# AFter matching
+# matching Output
+<img width="1892" height="872" alt="image" src="https://github.com/user-attachments/assets/54b3bc6f-3f5a-4989-8e5a-e6fc85194689" />
+
+# After Matching
+
 
 <img width="1466" height="972" alt="image" src="https://github.com/user-attachments/assets/8e26d3d7-c628-4490-9468-90dd7c976cf0" />
 
