@@ -3,12 +3,13 @@ At first we have to check the three parameters . if those parameters meets the s
 
 After checking those parameters , we have to check if the system is stable or not . To perform the stability test we check the value of mu , k and del.
 ## parameters that we will go through
-.[Max Available Gain](./MaxAvailableGain.md)
+1.[Max Available Gain](./MaxAvailableGain.md)
 
-.[Stability Check ](./stability.md)
+2.[Stability Check ](./stability.md)
 
-.[Matching](./matching.md)
+3.[Matching](./matching.md)
 
-.[Conjugate Matching](./conjugate.md)
+4.[Conjugate Matching](./conjugate.md)
 
+5.[1db Compression point](./compression.md)
 
