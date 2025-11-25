@@ -19,3 +19,16 @@
 <img width="1283" height="631" alt="image" src="https://github.com/user-attachments/assets/38522230-bc91-41d7-9dff-0d0df951ba28" />
 
 <img width="1281" height="673" alt="image" src="https://github.com/user-attachments/assets/04541e2b-ece8-407e-8dc5-9c630c8871a3" />
+
+# 1 dB compression point referred to input 
+
+<img width="298" height="751" alt="image" src="https://github.com/user-attachments/assets/574e725a-edaf-4716-aeec-910495398b50" />
+
+
+
+<img width="1900" height="839" alt="image" src="https://github.com/user-attachments/assets/1b96589e-5318-4ae1-acbe-747512075d38" />
+
+# 1 dB compression point referred to output 
+
+<img width="1747" height="812" alt="image" src="https://github.com/user-attachments/assets/c1d8ff1d-2c9d-4908-9321-49edf846a21b" />
+
