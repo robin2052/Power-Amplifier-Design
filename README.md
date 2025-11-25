@@ -20,4 +20,6 @@ After checking those parameters, we have to check if the system is stable or not
 
 [amplifier with 2.4 Ghz signal and 10db gain ,i <10mA](./amplifier.md)
 
+[amplifier with 5 Ghz signal and 10db gain ,i <10mA](./amplifier5.md)
+
 
