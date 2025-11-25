@@ -18,4 +18,6 @@ After checking those parameters, we have to check if the system is stable or not
 
 [Third Order Intercept](./thirdorder.md)
 
+[amplifier with 2.4 Ghz signal and 10db gain ,i <10mA](./amplifier)
+
 
