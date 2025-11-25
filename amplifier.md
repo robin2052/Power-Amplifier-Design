@@ -71,6 +71,44 @@
 
 <img width="1420" height="659" alt="image" src="https://github.com/user-attachments/assets/4d17c509-2142-4bf8-a7a6-9844e7d2da31" />
 
+# 1dB compression point input referred
+
+<img width="1869" height="765" alt="image" src="https://github.com/user-attachments/assets/5917e344-f933-4700-9804-94dca40b77b7" />
+
+# power Gain Vs Pin
+
+<img width="552" height="616" alt="image" src="https://github.com/user-attachments/assets/eefdde35-6a4b-40d5-bc4e-d9ed74b9af13" />
+
+
+# power gain Vs pout
+
+<img width="416" height="613" alt="image" src="https://github.com/user-attachments/assets/2f4e1b35-54db-47b0-ad05-75644c817105" />
+
+# input Harmonic Distortion
+
+<img width="978" height="605" alt="image" src="https://github.com/user-attachments/assets/8a0409bc-f01e-4c84-b340-afce310d7964" />
+
+# output Harmonic Distortion
+
+<img width="991" height="644" alt="image" src="https://github.com/user-attachments/assets/52dd7fe6-865e-4bbd-ab56-82d9c1fe41b6" />
+
+# Voltage Spectrum 
+
+<img width="494" height="630" alt="image" src="https://github.com/user-attachments/assets/f7a391c1-789b-44d3-9295-82079a8c133f" />
+
+# power Added efficiency 
+
+<img width="977" height="633" alt="image" src="https://github.com/user-attachments/assets/8784f8de-522b-447d-9598-1b5bc0919ff3" />
+
+
+
+
+
+
+
+
+
+
 
 
 
