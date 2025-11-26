@@ -22,4 +22,6 @@ After checking those parameters, we have to check if the system is stable or not
 
 [amplifier with 5 Ghz signal and 10db gain ,i <10mA](./amplifier5.md)
 
+[amplifier with 13 Ghz signal and 12 db gain ,i <15mA](./amplifier13.md)
+
 
