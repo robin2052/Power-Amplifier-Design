@@ -25,3 +25,5 @@ After checking those parameters, we have to check if the system is stable or not
 [amplifier with 13 Ghz signal and 12 db gain ,i <15mA](./amplifier13.md)
 
 
+[Noise Circle and Gain Circle ](./NcGc.md)
+
